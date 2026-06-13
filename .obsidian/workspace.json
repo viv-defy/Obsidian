@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "8c84b7e8779e8f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9dfbb747d13d40d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99418858bf5e8f9c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c4e2f5cfa9b1312",
+    "type": "split",
+    "children": [
+      {
+        "id": "43a313d4e8097cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e383c2cb4eeaed5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "927190c0d4854f1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8b50a6d49d702209",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3edb98be405c3f31",
+    "type": "split",
+    "children": [
+      {
+        "id": "2257c39138e38704",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67648327fac463f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "7232f1cd9663896a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "f7ad265f60ea0dd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "763c84ffa879cde9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5137e21a1249eea3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7e383c2cb4eeaed5",
+  "lastOpenFiles": [
+    "To-Do.md",
+    "Softwares/version controls.md",
+    "Softwares",
+    "Mathematics/Page Rank Algorithm.md",
+    "Mathematics/Eigenvalues - An intuitive approach.md",
+    "Mathematics",
+    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Scheduled-Tasks",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe",
+    "Economics/overview.md",
+    "Economics/Game Theory.md",
+    "Computer Science and Engineering/Transistors.md",
+    "Computer Science and Engineering/Overview.md",
+    "Computer Science and Engineering/Theory of Computation.md",
+    "Computer Science and Engineering/Operating Systems.md",
+    "Computer Science and Engineering/Networking.md",
+    "Computer Science and Engineering/Machine Learning and Artificial Intelligence.md",
+    "Computer Science and Engineering/Database Management Systems.md",
+    "Computer Science and Engineering/Data Structures and Algorithms.md",
+    "Computer Science and Engineering/Computer Architecture.md",
+    "Computer Science and Engineering/Cloud Computing.md",
+    "Computer Science and Engineering/Boolean Algebra.md",
+    "Computer Science and Engineering/Blockchains.md",
+    "Welcome.md"
+  ]
+}
